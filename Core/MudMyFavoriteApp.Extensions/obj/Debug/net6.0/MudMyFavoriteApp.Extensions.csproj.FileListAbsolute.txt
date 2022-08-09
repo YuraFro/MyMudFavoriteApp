@@ -1,0 +1,12 @@
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.deps.json
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.csproj.AssemblyReference.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.AssemblyInfoInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.AssemblyInfo.cs
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\refint\MudMyFavoriteApp.Extensions.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\MudMyFavoriteApp.Extensions.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Core\MudMyFavoriteApp.Extensions\obj\Debug\net6.0\ref\MudMyFavoriteApp.Extensions.dll

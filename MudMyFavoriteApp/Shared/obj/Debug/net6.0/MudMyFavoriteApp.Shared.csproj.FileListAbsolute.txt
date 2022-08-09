@@ -1,0 +1,17 @@
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Shared.deps.json
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Shared.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Shared.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.csproj.AssemblyReference.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.AssemblyInfoInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.AssemblyInfo.cs
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\refint\MudMyFavoriteApp.Shared.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\ref\MudMyFavoriteApp.Shared.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Data.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\bin\Debug\net6.0\MudMyFavoriteApp.Data.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\MudMyFavoriteApp\Shared\obj\Debug\net6.0\MudMyFavoriteApp.Shared.csproj.CopyComplete

@@ -1,0 +1,48 @@
+﻿@page "/Games"
+@inject HttpClient Http
+@inject IGameServiceClient GameService
+@inject NavigationManager NavigationManager
+
+
+<PageTitle>Games</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Games</MudText>
+<MudText Class="mb-8">This component shows a table with games.</MudText>
+@if (GameService.Games is null)
+{
+    <MudProgressCircular Color="Color.Default" Indeterminate="true" />
+}
+else
+{
+    <MudTable Items="GameService.Games" Hover="true" SortLabel="Sort By" Elevation="0">
+        <HeaderContent>
+            <MudTh><MudTableSortLabel InitialDirection="SortDirection.Ascending" SortBy="new Func<Game, object>(x => x.Id)">Id</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel SortBy="new Func<Game, object>(x => x.Name)">Name</MudTableSortLabel></MudTh>
+            <MudTh><MudTableSortLabel SortBy="new Func<Game, object>(x => x.GameStudio.Name)">GameStudio</MudTableSortLabel></MudTh>
+            <MudTh>Description</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Id">@context.Id</MudTd>
+            <MudTd DataLabel="Name">@context.Name</MudTd>
+            <MudTd DataLabel="GameStudio">@context.GameStudio.Name</MudTd>
+            <MudTd DataLabel="Descr">@context.Description</MudTd>
+            <MudTd DataLabel="">
+                <MudFab @onclick="@( ()=> EditBid(context))" Color="Color.Primary" Icon="@Icons.Filled.Edit" Size="Size.Small" IconSize="Size.Small"/>
+            </MudTd>
+        </RowTemplate>
+    </MudTable>
+}
+@code {
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GameService.GetGames();
+    }
+
+    void ShowGame(long id)
+    {
+        NavigationManager.NavigateTo($"/Game/{id}");
+    }
+
+    void EditBid(Game game) {}
+}

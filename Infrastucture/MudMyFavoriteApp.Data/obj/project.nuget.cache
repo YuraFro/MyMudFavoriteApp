@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9bY5tupBumApHRP0Km4/cODuoYpQAG0+DIWlD+fv0c34yO95OVVd4YWtdNYFDpPFUWqiOGeIi4piELGGcBZpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urafr\\source\\repos\\MudMyFavoriteApp\\Infrastucture\\MudMyFavoriteApp.Data\\MudMyFavoriteApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urafr\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\urafr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

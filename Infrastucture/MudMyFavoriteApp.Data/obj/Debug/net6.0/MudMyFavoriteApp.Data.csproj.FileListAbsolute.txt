@@ -1,0 +1,15 @@
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\bin\Debug\net6.0\MudMyFavoriteApp.Data.deps.json
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\bin\Debug\net6.0\MudMyFavoriteApp.Data.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\bin\Debug\net6.0\MudMyFavoriteApp.Data.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.csproj.AssemblyReference.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.AssemblyInfoInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.AssemblyInfo.cs
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\refint\MudMyFavoriteApp.Data.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\ref\MudMyFavoriteApp.Data.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.dll
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\bin\Debug\net6.0\MudMyFavoriteApp.Extensions.pdb
+C:\Users\urafr\source\repos\MudMyFavoriteApp\Infrastucture\MudMyFavoriteApp.Data\obj\Debug\net6.0\MudMyFavoriteApp.Data.csproj.CopyComplete
