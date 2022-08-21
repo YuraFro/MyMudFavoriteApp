@@ -200,17 +200,17 @@
       "System.Private.CoreLib.dll": "sha256-aF4imeOpA59D6F5qCLabzkeY7MvRZzNYzavhB\/bdxvM=",
       "MudMyFavoriteApp.Data.dll": "sha256-guEGS9wIZdHz43Cd\/jKGfIEnxlF5GkKbRLmnF5bWsHM=",
       "MudMyFavoriteApp.Extensions.dll": "sha256-aIJwTExA1+yjv+7tQ7AuRj10QcMFV3GrxviyID2yZVk=",
-      "MudMyFavoriteApp.Shared.dll": "sha256-CZ+PIaGKYUaiLm6KpImYAOi0DUpevPH4W7otOhD330w=",
-      "MudMyFavoriteApp.Client.dll": "sha256-y2W6HeDQ6626VrHyt67mFrfGpHVkzMXgtCmFioNPchk="
+      "MudMyFavoriteApp.Shared.dll": "sha256-6ZIIMpl8DMO1uJ\/\/LoEF3lCRkjoB9vgOs3mC1OIECfw=",
+      "MudMyFavoriteApp.Client.dll": "sha256-TU2gu+jEtfxEe03YSLrzsGhClZnMj5oTWvQneukUhPA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MudMyFavoriteApp.Shared.pdb": "sha256-ISnna9XUldkcOl\/IHDfFWmidh5Opa\/nHe6ZAQOJ8yNQ=",
+      "MudMyFavoriteApp.Shared.pdb": "sha256-phcwwqW+7H22UlMeRHzYt8yAXZtNj\/fzOUvT3hIPL9o=",
       "MudMyFavoriteApp.Data.pdb": "sha256-rPdA2l5GzMSRnDf6QpypCZhv0+oWzL9puZsXTq20ATM=",
       "MudMyFavoriteApp.Extensions.pdb": "sha256-BIKbvpYddMO2JOyhnvu3qOO6ZEo9JX398YmJujiU6tQ=",
-      "MudMyFavoriteApp.Client.pdb": "sha256-QiMnHtMR0t0qPH1O1lbsrztU11pCpizk1ui3GE5GQJA="
+      "MudMyFavoriteApp.Client.pdb": "sha256-r\/Xhb0S1eo186UDQUbT2xTVcFF4zBbHV6wc\/cNK9ETg="
     },
     "runtime": {
       "dotnet.6.0.7.0e3s3zl9u1.js": "sha256-pvJcJ6jtDSfxgXm03QYRTm4aAi9PSzMSJODReHtvASY=",

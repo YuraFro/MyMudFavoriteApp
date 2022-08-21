@@ -2,6 +2,7 @@
 using MudMyFavoriteApp.DataBaseEF;
 using MudMyFavoriteApp.Extensions.Mapping;
 using MudMyFavoriteApp.Services;
+using MudMyFavoriteApp.Shared.Mapping;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,7 @@ builder.Services.AddAutoMapper(config =>
 {
     config.AddProfile(new AssemblyMappingProfile(Assembly.GetExecutingAssembly()));
     config.AddProfile(new AssemblyMappingProfile(typeof(IGameDbContext).Assembly));
+    config.AddProfile(typeof(GameProfile));
 });
 
 var app = builder.Build();
